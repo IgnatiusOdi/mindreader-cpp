@@ -1,4 +1,5 @@
-# MIND GAMES
+# mindreader-cpp
+### Program tebak angka sederhana yang dapat membaca pikiran pengguna
 
 1. Pikirkan suatu angka antara 10 - 99 (misal 10)
 2. Tambahkan kedua angka tersebut (1 + 0 = 1)
